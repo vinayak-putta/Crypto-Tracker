@@ -1,7 +1,5 @@
 # Crypto Tracker iOS Application
 
-[Demo Video](https://github.com/vinayak-putta/Crypto-Tracker/assets/163222522/03203601-742b-4ea5-b423-9a57c1fab777)
-
 Welcome to Crypto Tracker, an iOS application built using Swift and SwiftUI to track the latest cryptocurrency information. This project leverages the [CoinGecko API](https://www.coingecko.com/api) to fetch up-to-date data on various cryptocurrencies.
 
 ## Features
@@ -24,4 +22,6 @@ git clone https://github.com/your-username/crypto-tracker.git
 2. Open the project in Xcode.
 
 3. Build and run the project on your iOS device or simulator.
+
+![Demo Video](https://github.com/vinayak-putta/Crypto-Tracker/assets/163222522/03203601-742b-4ea5-b423-9a57c1fab777)
 
